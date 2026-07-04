@@ -7,5 +7,5 @@ __pycache__/
 *.png
 *.jpg
 *.jpeg
-!screenshot.png
-!demo.mp4
+!pic.png
+!video.mp4
