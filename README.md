@@ -15,10 +15,9 @@ A clean Python desktop app to check your internet download and upload speed with
 
 ## 🎥 Demo
 
-<video controls width="100%">
-  <source src="video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+You can download and play the demo video here: [video.mp4](video.mp4)
+
+> GitHub may display the video differently depending on your browser, but the file is available for direct download.
 
 ## ▶️ Run it
 
