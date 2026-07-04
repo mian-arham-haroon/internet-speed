@@ -15,7 +15,10 @@ A simple and stylish Python desktop app that measures your internet download and
 
 ## 🎥 Demo
 
-Watch the demo video here: [Demo Video](video.mp4)
+<video controls width="100%">
+  <source src="video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## ▶️ How to Run
 
