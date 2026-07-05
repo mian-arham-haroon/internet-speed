@@ -1,29 +1,50 @@
 # 🌐 Internet Speed Tester
 
-A clean Python desktop app to check your internet download and upload speed with a simple Tkinter interface.
+A sleek and simple Python desktop app that measures your internet download and upload speed using a clean Tkinter interface.
 
-## ✨ Highlights
+## ✨ Why this project stands out
 
-- ⚡ Fast download test
-- 📤 Fast upload test
-- 🖥️ Easy-to-use GUI
-- 🔧 Built with Python
+- ⚡ Fast and reliable speed testing
+- 📤 Displays both download and upload speeds in Mbps
+- 🖥️ Clean, user-friendly desktop interface
+- 🔧 Lightweight and easy to run
 
-## 📸 Preview
+## 🖼️ Preview
 
 ![Internet Speed Tester screenshot](pic.png)
 
-## 🎥 Demo
+## ▶️ Getting Started
 
-You can download and play the demo video here: [video.mp4](video.mp4)
+### Requirements
 
-> GitHub may display the video differently depending on your browser, but the file is available for direct download.
+- Python 3.8 or newer
+- An active internet connection
 
-## ▶️ Run it
+### Install dependencies
 
 ```bash
 pip install speedtest-cli
+```
+
+### Run the app
+
+```bash
 python speedtester.py
 ```
 
-> Make sure your internet connection is active before testing.
+> Make sure your connection is active before clicking the test button.
+
+## 🧠 How it works
+
+The app uses the speedtest library to measure your connection performance and shows the results in an easy-to-read format.
+
+## 📁 Project files
+
+- [speedtester.py](speedtester.py) — main application
+- [README.md](README.md) — project guide
+
+## 🎥 Demo
+
+You can download the demo video here: [video.mp4](video.mp4)
+
+> GitHub may display the video differently depending on your browser, but the file is available for direct download.
