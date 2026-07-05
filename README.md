@@ -32,7 +32,7 @@ pip install speedtest-cli
 python speedtester.py
 ```
 
-> Make sure your connection is active before clicking the test button.
+> Make sure your connection is active before clicking the test button .
 
 ## 🧠 How it works
 
