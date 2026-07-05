@@ -11,6 +11,7 @@ A sleek and simple Python desktop app that measures your internet download and u
 
 ## 🖼️ Preview
 
+
 ![Internet Speed Tester screenshot](pic.png)
 
 ## ▶️ Getting Started
